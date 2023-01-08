@@ -1,0 +1,11 @@
+export { default as Brand } from "./brand/Brand";
+export { default as Article } from "./article/Article";
+export { default as Cta } from "./cta/Cta";
+export { default as Feature } from "./feature/Feature";
+export { default as Navbar } from "./navbar/Navbar";
+export { default as Footer } from "../pages/footer/Footer";
+export { default as Blog } from "../pages/blog/Blog";
+export { default as Features } from "../pages/features/Features";
+export { default as Header } from "../pages/header/Header";
+export { default as Possibility } from "../pages/possibility/Possibility";
+export { default as WhatGp3 } from "../pages/whatGp3/WhatGp3";
